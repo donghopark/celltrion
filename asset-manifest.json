@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/celltrion/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/celltrion/static/js/main.3cf2ddb0.chunk.js",
+    "main.js.map": "/celltrion/static/js/main.3cf2ddb0.chunk.js.map",
+    "runtime-main.js": "/celltrion/static/js/runtime-main.19936039.js",
+    "runtime-main.js.map": "/celltrion/static/js/runtime-main.19936039.js.map",
+    "static/js/2.383356ec.chunk.js": "/celltrion/static/js/2.383356ec.chunk.js",
+    "static/js/2.383356ec.chunk.js.map": "/celltrion/static/js/2.383356ec.chunk.js.map",
+    "static/js/3.bc144c52.chunk.js": "/celltrion/static/js/3.bc144c52.chunk.js",
+    "static/js/3.bc144c52.chunk.js.map": "/celltrion/static/js/3.bc144c52.chunk.js.map",
+    "index.html": "/celltrion/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/celltrion/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.383356ec.chunk.js.LICENSE.txt": "/celltrion/static/js/2.383356ec.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/celltrion/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.19936039.js",
+    "static/js/2.383356ec.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.3cf2ddb0.chunk.js"
+  ]
+}
